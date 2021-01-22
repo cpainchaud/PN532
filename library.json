@@ -9,5 +9,9 @@
   "exports": [
     "PN532",
     "PN532_SPI"
-  ]
+  ],
+  "build":
+  {
+    "includeDir": ".."
+  }
 }
