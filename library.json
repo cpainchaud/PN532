@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/cpainchaud/PN532.git"
   },
-  "frameworks": "arduino";
+  "frameworks": "arduino",
   "exports": [
     "PN532",
     "PN532_SPI"
